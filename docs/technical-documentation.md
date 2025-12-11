@@ -101,11 +101,8 @@ Semantic elements improve accessibility and SEO.
 
 ## 8. Deployment
 
-- Deployed via GitHub Pages:
-  - Repository: `assignment-4`
-  - Branch: `main`
-  - GitHub Pages set to serve from root of `main`.
-- After pushing to `main`, GitHub Pages builds and serves the latest version automatically.
+- Deployed via vercel https://assignment-4-vert-nine.vercel.app/#hero
+
 
 ## 9. Future Improvements
 
