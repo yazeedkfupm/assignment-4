@@ -1,0 +1,13 @@
+# Node / tooling
+node_modules
+dist
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large media (optional)
+presentation/demo-video.mp4
