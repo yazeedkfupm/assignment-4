@@ -5,27 +5,7 @@ This document describes how I used AI tools while developing my portfolio web ap
 ## Tools Used
 
 - ChatGPT (OpenAI)
-- [Add others if used: GitHub Copilot, Claude, etc.]
-
----
-
-## Detailed Log
-
-For each significant AI interaction, I document:
-
-- The tool used
-- The prompt
-- The output
-- My edits
-- What I learned
-
-| # | Date       | Tool    | Prompt (summary) | Output (summary) | My Edits & Modifications | What I Learned |
-|---|------------|---------|------------------|------------------|--------------------------|----------------|
-| 1 | 2025-12-09 | ChatGPT | Asked for help designing the structure and starter code for my Assignment 4 portfolio (HTML, CSS, JS, docs). | Suggested full file structure, starter HTML/CSS/JS, README, technical documentation, and AI usage template. | I changed all placeholder text, added my real name and real projects, customized colors, adjusted layout, and reviewed all code comments. I also removed or simplified parts that I didn't need. | How to structure a portfolio project, organize CSS variables for theming, and write clear technical and AI-usage documentation. |
-| 2 | yyyy-mm-dd | (Tool)  | (What I asked)   | (What it gave)   | (How I edited/checked it) | (New concept I understood better) |
-| 3 | yyyy-mm-dd | (Tool)  | ...              | ...              | ...                      | ...            |
-
-_Add more rows as needed so every AI interaction is documented._
+- Antigravity (Gemini)
 
 ---
 
